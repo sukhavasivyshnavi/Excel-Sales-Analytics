@@ -60,4 +60,8 @@
 
 ---
 
-**Project by:** **Sukhavasi Vyshnavi**  
+## Author
+
+**S. Vyshnavi**   
+Email: sukhavasivyshnavi17@gmail.com  
+ 
